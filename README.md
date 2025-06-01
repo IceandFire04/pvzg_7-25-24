@@ -3,6 +3,7 @@ This repo has the earliest beta of Gardendless that I think was every released g
 
 ## Info
 **Version:** 1.0.0
+
 **File Date:** 7/25/24
 
 That's about it!
